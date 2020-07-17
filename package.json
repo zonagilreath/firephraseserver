@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/zonagilreath/firephraseserver/issues"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "homepage": "https://github.com/zonagilreath/firephraseserver#readme",
   "dependencies": {
     "express": "^4.17.1"
